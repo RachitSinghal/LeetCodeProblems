@@ -1,0 +1,3 @@
+﻿  LeetCode190.cpp
+C:\Trainings\LeetCode\LeetCode190\LeetCode190\LeetCode190.cpp(14,24): warning C4244: '=': conversion from 'double' to 'uint32_t', possible loss of data
+  LeetCode190.vcxproj -> C:\Trainings\LeetCode\LeetCode190\Debug\LeetCode190.exe
